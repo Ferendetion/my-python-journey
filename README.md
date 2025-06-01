@@ -1,1 +1,1 @@
-# my-python-journey
+just little projek when i learn python
