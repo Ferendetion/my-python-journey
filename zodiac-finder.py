@@ -1,18 +1,18 @@
 # Target: input tanggal & bulan lahir → output zodiak
 
-# Zodiak      	Range Tanggal
-# Aries	        21 Maret - 19 April
-# Taurus	      20 April - 20 Mei
+# Zodiak        Range Tanggal
+# Aries         21 Maret - 19 April
+# Taurus	    20 April - 20 Mei
 # Gemini      	21 Mei - 20 Juni
 # Cancer      	21 Juni - 22 Juli
-# Leo	          23 Juli - 22 Agustus
+# Leo	        23 Juli - 22 Agustus
 # Virgo	        23 Agustus - 22 Sept
 # Libra       	23 Sept - 22 Okt
-# Scorpio	      23 Okt - 21 Nov
+# Scorpio       23 Okt - 21 Nov
 # Sagittarius  	22 Nov - 21 Des
 # Capricorn	    22 Des - 19 Jan
-# Aquarius  	  20 Jan - 18 Feb
-# Pisces	      19 Feb - 20 Maret
+# Aquarius      20 Jan - 18 Feb
+# Pisces	    19 Feb - 20 Maret
 
 print()
 print("===========")
