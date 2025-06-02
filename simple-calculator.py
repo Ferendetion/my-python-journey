@@ -1,8 +1,16 @@
+print()
+print("==============")
+print("====SIMPLE====")
+print("==CALCULATOR==")
+print("==============")
+print()
+
+
 def kalkulator():
     try:
-        a = int(input("Masukkan angka :"))
+        a = int(input("Masukkan angka : "))
         operasi = input("Pilih (+, -, *, /): ")
-        b = int(input("Masukkan angka :"))
+        b = int(input("Masukkan angka : "))
 
         if operasi == "+":
             return a + b
@@ -15,11 +23,11 @@ def kalkulator():
         else:
             return "Error: operasi tidak valid"
 
-    except ValueError: #output ketika pengguna memasukkan huruf
+    except ValueError:  # output ketika pengguna memasukkan huruf
         return "Beri input dengan benar"
-    except ZeroDivisionError: #output ketika pengguna membagi dengan angka 0
+    except ZeroDivisionError:  # output ketika pengguna membagi dengan angka 0
         return "Jangan membagi dengan 0"
 
 
 hasil = kalkulator()
-print(hasil)
+print(f"Hasil : {hasil}")
