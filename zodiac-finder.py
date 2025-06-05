@@ -15,9 +15,9 @@
 # Pisces	    19 Feb - 20 Maret
 
 print()
-print("===========")
-print("==WELCOME==")
-print("===========")
+print("===================")
+print("== ZODIAC FINDER ==")
+print("===================")
 print()
 
 try:
