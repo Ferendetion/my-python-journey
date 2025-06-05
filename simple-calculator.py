@@ -1,8 +1,7 @@
 print()
-print("==============")
-print("====SIMPLE====")
-print("==CALCULATOR==")
-print("==============")
+print("===========================")
+print("==== SIMPLE CALCULATOR ====")
+print("===========================")
 print()
 
 
