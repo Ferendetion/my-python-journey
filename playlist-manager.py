@@ -28,7 +28,6 @@ def hapus_lagu(playlist):
     else:
         return f"Lagu '{hapus}' tidak ditemukan!"
 
-
 def main():
     playlist = []
 
